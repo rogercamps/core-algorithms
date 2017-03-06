@@ -1,3 +1,4 @@
+//for pull request review
 export default function factorial(num) {
   var fact = 1;
   for (var i = num; i > 1; i--) {

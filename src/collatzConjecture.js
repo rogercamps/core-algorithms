@@ -1,3 +1,4 @@
+//for pull request review
 export default function collatzConjecture(n) {
   if (n % 2 == 0) {
   console.log(n / 2)
