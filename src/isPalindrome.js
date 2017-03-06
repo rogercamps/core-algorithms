@@ -1,3 +1,4 @@
+//for pull request review
 export default function isPalindrome(string) {
 
   if (typeof string !== 'string') {
