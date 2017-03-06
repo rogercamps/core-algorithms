@@ -1,4 +1,4 @@
-import { expect } from 'chai'
+import {expect} from 'chai'
 import makeChange from '../src/makeChange'
 
 describe('makeChange()', function(){
